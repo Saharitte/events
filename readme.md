@@ -1,9 +1,10 @@
-#ByteEvent
-####Overview
+# ByteEvent
+
+#### Overview
 
 ByteEvent is Event Management System, which is a software that allows the user to make CRUD actions over event records. It also allows other users to mark their attending to those events and to receive information about them.
 
-####Features
+#### Features
 
 •	Notifications system
 
@@ -14,7 +15,7 @@ ByteEvent is Event Management System, which is a software that allows the user t
 •	Pacticipate to event
 
 •	…
-####_Installation_
+#### _Installation_
 
 1. _install dependences_:
 
